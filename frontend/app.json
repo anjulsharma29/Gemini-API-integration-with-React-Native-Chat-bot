@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "chatbot-app",
+    "slug": "chatbot-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
